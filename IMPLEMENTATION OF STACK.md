@@ -59,7 +59,7 @@ s.peek()
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/13a3e60f-46de-4a30-b38c-ac1962bcb533)
+![image](https://github.com/user-attachments/assets/23794658-ca22-4490-9991-e9282132d5db)
 
 ### RESULT
 
