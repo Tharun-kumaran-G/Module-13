@@ -61,7 +61,7 @@ print("The result is",prefix_Eval(n))
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/4da04974-f7d2-4b7c-92cb-ae56e705853d)
+![image](https://github.com/user-attachments/assets/4d8c3b77-1416-47cc-81e4-7e1317fedcc0)
 
 ### RESULT
 
