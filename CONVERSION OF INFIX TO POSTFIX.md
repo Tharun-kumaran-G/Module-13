@@ -65,7 +65,7 @@ print("postfix notation: ",infixToPostfix(expression))
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/71dd0651-3b60-47de-8b48-d0537e3019c1)
+![image](https://github.com/user-attachments/assets/d7194314-8329-457d-9cc3-158cc1f51b3a)
 
 ### RESULT
 
