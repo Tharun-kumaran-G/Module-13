@@ -54,7 +54,7 @@ main()
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/9da6d7f3-7713-423a-bd52-5985e4d5836f)
+![image](https://github.com/user-attachments/assets/126d13ce-0fc7-4be1-a61c-d8bc433b7402)
 
 ### RESULT
 
